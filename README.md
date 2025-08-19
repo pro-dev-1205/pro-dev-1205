@@ -1,52 +1,114 @@
-# 👋 Hi, I'm Sharique Aman  
+⸻
 
-🚀 **Senior Software Engineer | Full Stack Developer (Java + React) | Cloud & AI Enthusiast**  
-With 4.5+ years of experience in building scalable, secure, and high-performing applications across **Healthcare, SaaS, and E-commerce domains**.  
+👋 Hi, I’m Sharique Aman
 
-💡 I specialize in:  
-- **Backend:** Java (Spring Boot, Spring Cloud, Spring Security), Node.js, Python  
-- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript  
-- **Cloud & DevOps:** AWS (Lambda, API Gateway, DynamoDB, S3, EC2), Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-- **Messaging & Streaming:** Apache Kafka, RabbitMQ  
-- **AI/LLM:** LangChain, OpenAI API, ChromaDB  
+🚀 Senior Software Engineer | Full Stack Developer (Java + React) | Cloud-Native & AI Enthusiast
+I have 4.5+ years of experience building scalable, secure, and high-performance applications across Healthcare, SaaS, and E-commerce domains.
+I specialize in Java + React full-stack development, cloud-native microservices, AI-powered solutions, and DevOps automation.
 
----
+⸻
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+🏆 Career Highlights
+	•	Vantive (Healthcare) – Built HIPAA-compliant microservices with Spring Boot + AWS Lambda, migrated monoliths to microservices for 40% performance gain, and optimized healthcare workflows.
+	•	Fornax Ventures – Reduced AWS Lambda latency from 7000ms → 150ms, developed bulk data ingestion tool (Retool + AWS S3 + DynamoDB), and created real-time ReactJS dashboards for KPIs.
+	•	Maverick Digital Tech – Designed influencer acquisition & campaign management platform using Firebase, ReactJS, Flask, and AWS Chalice; automated influencer workflows with Slack API.
+	•	Cygnius Consulting – Built Slack automation bots, serverless AWS apps (SAM, Lambda, S3 triggers), and authored OpenAPI specs with Swagger.
+	•	MedsVault (Startup Project) – Founder & developer of AI-powered medical records vault, enabling users to store, query, and analyze prescriptions, reports, and scans. Uses LangChain, Chroma DB, OpenAI, AWS, and React Native.
 
----
+⸻
 
-## 🔥 Featured Projects  
-*(All public + recruiter-friendly, no company IP involved)*  
+🛠️ Tech Stack
 
-- 🏥 **[MedsVault](https://github.com/shariqueaman/medsvault)** – Personal doctor app for storing & analyzing medical reports.  
-- 🤖 **[AI Chatbot (LLM-based)](https://github.com/shariqueaman/ai-chatbot-demo)** – Built with **LangChain + OpenAI + Chroma DB** for Q&A.  
-- 📊 **[Analytics Dashboard](https://github.com/shariqueaman/analytics-dashboard)** – ReactJS + Spring Boot dashboard with real-time data visualization.  
-- ☁️ **[Microservices Boilerplate](https://github.com/shariqueaman/microservices-starter)** – Secure **Spring Boot + Docker + Kafka** starter kit for microservices.  
-- 🔗 **[API Gateway Demo](https://github.com/shariqueaman/api-gateway-demo)** – Java Spring Cloud Gateway with JWT auth & rate-limiting.  
+Backend Development
+	•	Java (Spring Boot, Spring Cloud, Spring Security, Hibernate, Reactive Streams)
+	•	Node.js (Express.js), Python (Flask), Kotlin
+	•	REST API, GraphQL
 
----
+Frontend Development
+	•	ReactJS, Next.js, JavaScript (ES6+), TypeScript
+	•	Tailwind CSS, Bootstrap, HTML5, CSS3
 
-## 🏆 Achievements
-- 🌍 Ranked **Top 100 (Global Rank 68)** – TechGig Open Coding Contest.  
-- ⚡ Optimized AWS Lambda latency from **7000ms → 150ms**.  
-- 🎯 Delivered multiple end-to-end products in healthcare & e-commerce.  
+Databases
+	•	Relational: MySQL, PostgreSQL, Oracle
+	•	NoSQL: MongoDB, DynamoDB, Redis
+	•	Time-series: InfluxDB
 
----
+Cloud & DevOps
+	•	AWS (Lambda, API Gateway, DynamoDB, S3, EC2, CloudFormation, CloudWatch, SQS, SES, X-Ray)
+	•	Azure (basic experience)
+	•	Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines
 
-## 📫 Connect with Me
-- 🌐 [Portfolio](https://shariqueaman.in)  
-- 💼 [LinkedIn](https://linkedin.com/in/sharique-aman-1874b429b)  
-- 📧 shariqueamanwork@gmail.com  
+Messaging & Streaming
+	•	Apache Kafka, RabbitMQ
 
----
-⭐️ *Always exploring new technologies in AI, Cloud, and Scalable Architecture.*
+AI / LLM / Data Analytics
+	•	LangChain, OpenAI API, ChromaDB
+	•	Data visualization with Grafana, Prometheus
+	•	AI-powered chatbots & automation workflows
+
+⸻
+
+🚀 Featured Projects (Public Repos You Can Showcase)
+
+🏥 MedsVault – Your Personal Doctor App
+	•	Secure vault for prescriptions, medical reports & scans.
+	•	AI-powered health timeline, body map, nutrition insights.
+	•	Tech: AWS (Lambda, DynamoDB, S3), React Native, LangChain, ChromaDB, OpenAI, Python microservices.
+👉 (Make a demo repo: medsvault-demo)
+
+⸻
+
+🤖 AI Chatbot (LLM-powered)
+	•	Built a chatbot with LangChain + OpenAI + Chroma DB for Q&A on uploaded documents.
+	•	Supports streaming word-by-word responses for smooth UI (like ChatGPT).
+	•	Integrated into Spring Boot backend + React frontend.
+👉 (Demo repo idea: ai-chatbot-langchain)
+
+⸻
+
+📊 Analytics Dashboard
+	•	Internal dashboard for real-time KPI tracking.
+	•	Tech: ReactJS + Spring Boot + AWS DynamoDB + S3, WebSocket for live updates.
+	•	Includes charts, metrics, and alerting.
+👉 (Demo repo: analytics-dashboard)
+
+⸻
+
+☁️ Microservices Starter Kit
+	•	A boilerplate for Spring Boot + Kafka + Dockerized microservices.
+	•	Includes authentication (JWT, refresh tokens), API Gateway, service discovery (Eureka/Consul), CI/CD pipelines.
+	•	Demonstrates scalable architecture with monitoring (Grafana + Prometheus).
+👉 (Demo repo: microservices-starter)
+
+⸻
+
+🔗 API Gateway with Rate Limiting
+	•	Java Spring Cloud Gateway with JWT authentication, request throttling, and monitoring.
+	•	Useful for SaaS products & subscription-based platforms.
+👉 (Demo repo: api-gateway-demo)
+
+⸻
+
+🏅 Achievements
+	•	🌍 TechGig Coding Contest (Global Rank 68) – Proved problem-solving and DSA expertise.
+	•	⚡ Achieved 40% performance boost in microservices migration.
+	•	🚀 Optimized AWS Lambda latency from 7000ms → 150ms.
+	•	🎯 Delivered end-to-end SaaS products in healthcare, influencer marketing, and e-commerce.
+
+⸻
+
+📈 GitHub Stats
+
+
+⸻
+
+📫 Connect with Me
+	•	🌐 Portfolio: shariqueaman.in
+	•	💼 LinkedIn: Sharique Aman
+	•	📧 Email: shariqueamanwork@gmail.com
+
+⸻
+
+⭐️ I’m passionate about building scalable cloud-native systems, exploring AI/LLMs, and mentoring developers on modern engineering practices.
+
+⸻
